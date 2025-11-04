@@ -1,4 +1,4 @@
-# 🌌 Starry Night 3D Animation
+# Starry Night 3D Animation
 
 A simple Processing (Python) project that brings Van Gogh’s *Starry Night* to life with flowing, brushstroke animations.
 
@@ -16,5 +16,5 @@ A simple Processing (Python) project that brings Van Gogh’s *Starry Night* to 
 - starry.pyde: version where users could do from scratch where they want the motion to take place in the picture
 - starryCompleteVersion.pyde: an example version of moving brushstroke, flow, stars and moon.
 
-## 🖼️ Example
+## Example
 Inspired by the idea of turning static art into gentle motion like Van Gogh’s brushstrokes coming alive.
